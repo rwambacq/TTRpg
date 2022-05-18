@@ -1,4 +1,4 @@
-@prefix TTRpg: <https://example.org/TTRpg#> .
+@prefix TTRpg: <https://w3id.org/TTRpg#> .
 @prefix cc: <http://creativecommons.org/ns#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
