@@ -13,7 +13,7 @@ TTRpg:	a foaf:Document ;
 
 <https://rwambacq.solidweb.org/profile/card#me> foaf:name "Ruben Wambacq"; foaf:mbox "ruben.wambacq@gmail.com".
 
-<https://solid.robbevanherck.be/robbevanherck/profile/card#me> foaf:name "Robbe Van Herck"; foaf:mbox "robbe.van.herck@ugent.be".
+<https://solid.robbevanherck.be/robbevanherck/profile/card#me> foaf:name "Robbe Van Herck"; foaf:mbox "robbe.vanherck@ugent.be".
 
 TTRpg:Ontology a owl:Ontology ;
               rdfs:label "TTRpg"@en ;
